@@ -1,13 +1,8 @@
 <p align="center"><img src="" width="20%"></p>
 <p align="center">Sistema de Gestão de Manufatura - Web</p>
 
-## Pré-requisitos
-- [Node.js](https://nodejs.org/en/)
-
 ## Clonando o Repositório
-
 Clone este repositório usando o comando:
-
 ```bash
 git clone https://github.com/aptivjam/new-contencao
 ```
