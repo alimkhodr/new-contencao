@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/aptivjam/new-contencao/refs/heads/main/Contencao/JBC.ico?token=GHSAT0AAAAAACX6QZTOKEP5D4G4HL7IYIXQZZDM6SA" width="20%"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/176d345c-dcf6-4e13-9300-0e6d3ab901cc" width="20%"></p>
 <p align="center">Sistema de Contenção</p>
 
 ## Clonando o Repositório
