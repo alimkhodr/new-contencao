@@ -1,4 +1,4 @@
-<p align="center"><img src="" width="20%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/aptivjam/new-contencao/refs/heads/main/Contencao/JBC.ico?token=GHSAT0AAAAAACX6QZTOKEP5D4G4HL7IYIXQZZDM6SA" width="20%"></p>
 <p align="center">Sistema de Gestão de Manufatura - Web</p>
 
 ## Clonando o Repositório
