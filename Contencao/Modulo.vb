@@ -26,13 +26,13 @@ Module Modulo
 
     Public Sub conectar()
         Try
-            conexaobd.ConnectionString = "server=BRSPJAM-AP07;database=SGM_ONE;uid=sa;pwd=P@ssw0rd"
+            conexaobd.ConnectionString = "conexao_aqui"
             comandoSQL = conexaobd.CreateCommand
             conexaobd.Open()
 
         Catch ex As Exception
             conexaobd.Close()
-            conexaobd.ConnectionString = "server=BRSPJAM-AP07;database=SGM_ONE;uid=sa;pwd=P@ssw0rd"
+            conexaobd.ConnectionString = "conexao_aqui"
             comandoSQL = conexaobd.CreateCommand
             conexaobd.Open()
         End Try
